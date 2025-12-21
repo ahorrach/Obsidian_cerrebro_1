@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "0f1edb35299d09b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5df5f03df588923",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6c283f55a7871b8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "3b82bda2e6d5aa55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Detalle SystemD (el nuevo sistema).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Detalle SystemD (el nuevo sistema)"
+            }
+          },
+          {
+            "id": "d83a921771577881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos de inicio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Procesos de inicio"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d77a39a2917fc487",
+    "type": "split",
+    "children": [
+      {
+        "id": "4daea8aef1fb602c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "176c979d415a355f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "67a114a9c5da1642",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "c7f8d310f3710c71",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ca7e4f0c48452a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "05d29c359d13f6f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52129383d2a7105d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Particiones básicas y instalación.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Particiones básicas y instalación"
+            }
+          },
+          {
+            "id": "e8ae588691245c83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Particiones básicas y instalación.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Particiones básicas y instalación"
+            }
+          },
+          {
+            "id": "3f2ea7a7e3ecbc21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2b7503b283562db7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "96fda617c5f4b78a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Particiones básicas y instalación.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Particiones básicas y instalación"
+            }
+          },
+          {
+            "id": "e105faf9713ab047",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "d4b9c4cd78ff79d4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3b82bda2e6d5aa55",
+  "lastOpenFiles": [
+    "Sin título.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Atajos BASH FLASHCARD.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/CHULETA DE ATAJOS DE BASH.md",
+    "Sin título.canvas",
+    "Sin título 1.canvas",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/MBR vs GPT.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Instalación.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/0 Linux basico.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Detalle SystemD (el nuevo sistema).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Detalle de SysVinit (deprecado).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos de inicio.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistemas de Gestión (Init).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistemas de Gestión (Init) (SYSTEMD Y SYSTEMVINIT).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Comandos y Herramientas de Gestión y MENSAJERIA.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Componentes criticos arranque (Initramfs).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestores de arranque (LILO, GRUB, GRUB2).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/02 Arranque.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/FHS -> Filesystem Hierarchy Standard.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/03 BIOS vs UEFI.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/SWAP.md",
+    "ANEXOS/C04-102_2[02]+-+Gestores+de+arranque+-+GRUB2.pdf",
+    "ANEXOS/C04-102_2[01]+-+Gestores+de+Arranque+y+GRUB.pdf",
+    "ANEXOS/C04-101_2[04]+-+MBR+y+GPT.pdf",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-101_2[02]+-+UEFI.pdf",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-101_2[01]+-+BIOS.pdf",
+    "Instalación.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/LVM -> Logical Volume Manager.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-102_1[01]+-+Particiones,+instalacion.pdf",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-102_1[02]+-+Particines,+swap.pdf",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/LVM.pdf",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/LVM 1.pdf",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-102_1[04]+-+LVM.pdf",
+    "CEREBRO DIGITAL BÁSICO/000 - 🧭 VISIÓN - OBJETIVOS/yyyy Balance año.md",
+    "CEREBRO DIGITAL BÁSICO/000 - 🧭 VISIÓN - OBJETIVOS/202502 RUEDA VIDA.md",
+    "CEREBRO DIGITAL BÁSICO/901 - 🧱 PLANTILLAS/plantilla PROYECTO.md",
+    "CEREBRO DIGITAL BÁSICO/EMPIEZA AQUÍ.md",
+    "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ANKI PLUGIN/Mazo Capitales América usando modo Neurocache.md",
+    "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ANKI PLUGIN/ANEXOS/mapa-de-asia.jpg",
+    "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ANKI PLUGIN/ANEXOS/bandera chile.png",
+    "CEREBRO DIGITAL BÁSICO 1/000 - 🧭 VISIÓN - OBJETIVOS/202502 RUEDA VIDA.md",
+    "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ZETTELKASTEN ATRIBUTOS/BIBLIOGRAFÍA/ANEXOS/Pasted image 20211022195846.png",
+    "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ZETTELKASTEN ATRIBUTOS/BIBLIOGRAFÍA/ANEXOS/Pasted image 20211022185436.png",
+    "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ZETTELKASTEN ATRIBUTOS/BIBLIOGRAFÍA/ANEXOS/Pasted image 20211022185054.png",
+    "CEREBRO DIGITAL BÁSICO 1/Excalidraw/Scripts/Downloaded/Organic Line.svg",
+    "CEREBRO DIGITAL BÁSICO 1/Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
+    "CEREBRO DIGITAL BÁSICO 1/200 - 🌍 MEMORIA DIGITAL/MIS VIAJES/ANEXOS/Pasted image 20210322105729.png",
+    "CEREBRO DIGITAL BÁSICO 1/200 - 🌍 MEMORIA DIGITAL/276 - MÚSICA/ANEXOS/Pasted image 20240302090553.png",
+    "CEREBRO DIGITAL BÁSICO 1/200 - 🌍 MEMORIA DIGITAL/275 -  HISTORIA/ANEXOS/Pirámide proporción áurea.png",
+    "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/CORNELL SISTEMA NOTAS/Mejorar la inteligencia - Canvas.canvas"
+  ]
+}

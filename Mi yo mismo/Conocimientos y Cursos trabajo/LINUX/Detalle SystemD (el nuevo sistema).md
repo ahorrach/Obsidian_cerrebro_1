@@ -16,6 +16,7 @@
 ### Estructura de un Fichero de Unidad (Ejemplo .service)
  Un fichero de servicio (como `syslog.service`) se divide en secciones:
 *  **[Unit]**: Contiene la descripción, documentación y dependencias (`Requires`, `After`, `Conflicts`) .
+
 * **[Service]**: Define el comportamiento del proceso:
     *  `Type`: Tipo de inicio (ej: `notify`) .
     *  `ExecStart`: Ruta completa al binario que se debe ejecutar.
