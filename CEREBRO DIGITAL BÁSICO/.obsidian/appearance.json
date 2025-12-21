@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 18,
+  "cssTheme": "Blue Topaz",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "extra",
+    "presentaciones",
+    "notation-colour-blocks"
+  ],
+  "accentColor": "",
+  "showViewHeader": true
+}

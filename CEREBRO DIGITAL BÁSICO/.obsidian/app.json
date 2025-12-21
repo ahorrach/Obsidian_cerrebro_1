@@ -1,0 +1,29 @@
+{
+  "readableLineLength": true,
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./ANEXOS",
+  "useMarkdownLinks": false,
+  "legacyEditor": false,
+  "livePreview": false,
+  "fileSortOrder": "alphabetical",
+  "defaultViewMode": "source",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "strictLineBreaks": false,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "fdsfasdfasd"
+  ],
+  "trashOption": "system",
+  "newLinkFormat": "shortest"
+}

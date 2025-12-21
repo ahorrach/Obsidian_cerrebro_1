@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "91197a51a903e6f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f3ef68ebe59234b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4533d349e6a9250e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EMPIEZA AQUÍ.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "EMPIEZA AQUÍ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cf21a3a6b8c04bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7f399f93d126175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a057b77ba00d775c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "5b2847fbc0de186c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
+            }
+          },
+          {
+            "id": "eadc1eb040bac3e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "7818b74c769afda9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 430.5
+  },
+  "right": {
+    "id": "aee7b297af4fd3ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c65162bb0b43d71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d9c727d6f483cde",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EMPIEZA AQUÍ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de EMPIEZA AQUÍ"
+            }
+          },
+          {
+            "id": "ba3e0cd93c96f8bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EMPIEZA AQUÍ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de EMPIEZA AQUÍ"
+            }
+          },
+          {
+            "id": "487ff5def2c3d2c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "995df457b5dcb20a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EMPIEZA AQUÍ.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de EMPIEZA AQUÍ"
+            }
+          },
+          {
+            "id": "09a2c819abf13807",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6ee73d39e856dc29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3c81543a6828e1c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "EMPIEZA AQUÍ.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6358647657495379,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Gráfico de EMPIEZA AQUÍ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "templates:Insertar plantilla": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a057b77ba00d775c",
+  "lastOpenFiles": [
+    "000 - 🧭 VISIÓN - OBJETIVOS/202502 RUEDA VIDA.md",
+    "900 - 📆 DIARIO/2024-03-02.md",
+    "000 - 🧭 VISIÓN - OBJETIVOS/YYYY+3 OBJETIVOS A 3 AÑOS.md",
+    "901 - 🧱 PLANTILLAS/plantilla_DIARIO.md",
+    "000 - 🧭 VISIÓN - OBJETIVOS/MI VISIÓN.md",
+    "200 - 🌍 MEMORIA DIGITAL/202 - 🧠🧱 CEREBRO DIGITAL/Etiquetas.md",
+    "200 - 🌍 MEMORIA DIGITAL/202 - 🧠🧱 CEREBRO DIGITAL/Gestión tareas diagrama.md",
+    "000 - 🧭 VISIÓN - OBJETIVOS/YYYY Propósito año nuevo.md",
+    "000 - 🧭 VISIÓN - OBJETIVOS/VISION A 5,10,25 AÑOS.md",
+    "200 - 🌍 MEMORIA DIGITAL/202 - 🧠🧱 CEREBRO DIGITAL/Vaults.md",
+    "100 - ✅ PROYECTOS/Tareas por contexto.md",
+    "100 - ✅ PROYECTOS/TAREAS A REALIZAR ALGÚN DÍA.md",
+    "100 - ✅ PROYECTOS/PROYECTO YOUTUBE cerebro digital e IA.md",
+    "100 - ✅ PROYECTOS/PROYECTO CD Grabar vídeo Obsidian flujo diario.md",
+    "000 - 🧭 VISIÓN - OBJETIVOS/PRINCIPIOS, PILARES.md",
+    "200 - 🌍 MEMORIA DIGITAL/202 - 🧠🧱 CEREBRO DIGITAL/Presentación Elementos CEREBRO DIGITAL.md",
+    "200 - 🌍 MEMORIA DIGITAL/202 - 🧠🧱 CEREBRO DIGITAL/notas SILO MOC HUB.md",
+    "200 - 🌍 MEMORIA DIGITAL/202 - 🧠🧱 CEREBRO DIGITAL/Notas.md",
+    "200 - 🌍 MEMORIA DIGITAL/202 - 🧠🧱 CEREBRO DIGITAL/Metadatos.md",
+    "200 - 🌍 MEMORIA DIGITAL/202 - 🧠🧱 CEREBRO DIGITAL/Líneas de pensamiento o conocimiento.md",
+    "001 - 📥 CAPTURA/Consulta libros.md",
+    "200 - 🌍 MEMORIA DIGITAL/202 - 🧠🧱 CEREBRO DIGITAL/Contenedores.md",
+    "200 - 🌍 MEMORIA DIGITAL/202 - 🧠🧱 CEREBRO DIGITAL/Lienzo de la vida en 7 notas tipo.md",
+    "200 - 🌍 MEMORIA DIGITAL/202 - 🧠🧱 CEREBRO DIGITAL/GTD Flujograma.md",
+    "200 - 🌍 MEMORIA DIGITAL/202 - 🧠🧱 CEREBRO DIGITAL/Enlaces.md",
+    "200 - 🌍 MEMORIA DIGITAL/202 - 🧠🧱 CEREBRO DIGITAL/Enlace Wikilink.md",
+    "100 - ✅ PROYECTOS/ANEXOS/Pasted image 20220207200436.png",
+    "100 - ✅ PROYECTOS/ANEXOS/Pasted image 20220207171623.png",
+    "100 - ✅ PROYECTOS/ANEXOS/Pasted image 20220207171241.png",
+    "ANEXOS/Pasted image 20240220182904.png",
+    "ANEXOS/Pasted image 20211030200002.png",
+    "ANEXOS/Pasted image 20211030174504.png",
+    "1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ESTRUCTURA BÁSICA/ANEXOS/_99173194_hi043535317 1.jpg",
+    "1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ESTRUCTURA BÁSICA/ANEXOS/_99173194_hi043535317.jpg",
+    "1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ESTRUCTURA BÁSICA/ANEXOS",
+    "1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ESTRUCTURA BÁSICA",
+    "1000 -  EJEMPLOS YOUTUBE OBSIDIAN/MAPAS MENTALES/Mapa mental libro.excalidraw.png",
+    "1000 -  EJEMPLOS YOUTUBE OBSIDIAN/MAPAS MENTALES/ANEXOS/Pasted Image 20240416181427_949.png",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "1000 -  EJEMPLOS YOUTUBE OBSIDIAN/MAPAS MENTALES/ANEXOS",
+    "1000 -  EJEMPLOS YOUTUBE OBSIDIAN/MAPAS MENTALES/A",
+    "A",
+    "carpeta sin título",
+    "1000 -  EJEMPLOS YOUTUBE OBSIDIAN/CORNELL SISTEMA NOTAS/Mejorar la inteligencia - Canvas.canvas",
+    "1000 -  EJEMPLOS YOUTUBE OBSIDIAN/CORNELL SISTEMA NOTAS",
+    "Untitled.canvas"
+  ]
+}

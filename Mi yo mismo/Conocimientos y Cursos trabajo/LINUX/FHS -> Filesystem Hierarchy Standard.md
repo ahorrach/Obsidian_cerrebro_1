@@ -1,0 +1,21 @@
+
+- **Directorios principales**:
+  - `/` → raíz.
+  - `/bin` → binarios esenciales.
+  - `/boot` → cargador de arranque.
+  - `/dev` → dispositivos.
+  - `/etc` → configuración.
+  - `/home` → usuarios.
+  - `/lib` → librerías.
+  - `/media` → medios extraíbles.
+  - `/mnt` → montajes temporales.
+  - `/opt` → paquetes opcionales.
+  - `/proc` → info del kernel.
+  - `/root` → superusuario.
+  - `/sbin` → binarios del sistema.
+  - `/srv` → datos servidos.
+  - `/sys` → info jerárquica del kernel.
+  - `/tmp` → temporales.
+  - `/usr` → aplicaciones multiusuario.
+  - `/var` → datos variables.
+![[C04-102_1[03]+-+Particiones+y+FHS.pdf]]

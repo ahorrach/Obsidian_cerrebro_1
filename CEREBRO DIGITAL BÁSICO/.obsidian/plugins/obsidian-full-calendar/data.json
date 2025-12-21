@@ -1,0 +1,12 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#2f92e4",
+      "directory": "800 - 📅 AGENDA"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": false,
+  "firstDay": 1
+}

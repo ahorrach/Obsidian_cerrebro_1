@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "91197a51a903e6f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "abacac54c814a925",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cf21a3a6b8c04bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7f399f93d126175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f66a758b6db5feb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "64e07506c02036c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:CD",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b2847fbc0de186c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "right": {
+    "id": "aee7b297af4fd3ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c65162bb0b43d71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e3c5b6ade5da1e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d9c727d6f483cde",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "487ff5def2c3d2c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "995df457b5dcb20a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3168f32faddb3000",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267,
+    "collapsed": true
+  },
+  "active": "f66a758b6db5feb9",
+  "lastOpenFiles": [
+    "LIBROS Cómo pensar como Leonardo Da Vinci.md",
+    "PROYECTO XXX.md",
+    "Versión Flujo de trabajo.md",
+    "901 - 🧱 PLANTILLAS/plantilla UNIVERSAL.md",
+    "PROYECTO loque sea.md",
+    "901 - 🧱 PLANTILLAS/plantilla ACTIVO.md",
+    "901 - 🧱 PLANTILLAS/plantilla BÁSICA.md",
+    "150 - 🏆 ACTIVOS/LIBRO CEREBRO DIGITAL KPI.md",
+    "901 - 🧱 PLANTILLAS/plantilla PROYECTO.md",
+    "901 - 🧱 PLANTILLAS/plantilla LIBRO.md"
+  ]
+}

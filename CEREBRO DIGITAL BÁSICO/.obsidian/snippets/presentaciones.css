@@ -1,0 +1,105 @@
+.reveal {
+  font-size: 1em;
+}
+.reveal table {
+  font-size: 0.2em;
+}
+.reveal h1 {
+  font-size: 4em;
+  color: #016bd9;
+}
+.reveal h2 {
+  font-size: 3em;
+  color: #016bd9;
+    text-align: justify;
+}
+.reveal h3 {
+  font-size: 3em;
+  color: #016bd9;
+}
+.reveal h4 {
+  font-size: 2em;
+  color: #016bd9;
+padding: 2px 15px 2px 15px;
+    left:1.5px;
+}
+.reveal h5 {
+  font-size: 2em;
+  color: #016bd9;
+}
+.reveal h6 {
+  font-size: 1em;
+  color: #016bd9;
+}
+.reveal p {
+    font-size: 1em;
+    color: #6a6b6c;
+    text-align: justify;
+}
+
+.reveal ul {
+    font-size: 1em;
+    color: #6a6b6c;
+    text-align: justify;
+}
+
+/*
+CSS snippet that adds scrollbars on Obsidian slideshow slides in cases where content
+would normally overflow and be hidden
+*/
+
+/* Apply styles to containing divs for slides */
+.slides {
+/* Set overflows to allow for auto vertical scroll bar and no horizontal scroll bar */
+overflow-x: hidden !important;
+overflow-y: auto !important;
+
+/* Enable pointer events so users can click and drag on scrollbars */
+pointer-events: auto !important;
+}
+
+/* Apply styles that apply directly to slides */
+.slides > section {
+/* Create flex container to arrange auto-generated elements by Obsidian on each slide */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+/*
+Snippet to make slideshow slides take up full height of slides' container div
+*/
+.slides {
+height: 100% !important;
+}
+
+/*
+Snippet to make slideshow slides take up full height of slides' container div
+*/
+.slides {
+height: 100% !important;
+}
+
+/*
+Stylesheet to change the color of the slide controls to purple to better match the rest of the interface
+*/
+
+/* Change progress bar color to be purple */
+.progress span {
+background-color: var(--text-accent) !important;
+}
+
+/* Change default slide control button colors to purple */
+.reveal .controls {
+color: var(--text-accent)
+}
+
+/* Set control hover color to be a slightly lighter purple */
+.reveal .controls:hover {
+color: var(--text-accent-hover)
+}
+
+.slides-close-btn {
+color: #48474494;
+}

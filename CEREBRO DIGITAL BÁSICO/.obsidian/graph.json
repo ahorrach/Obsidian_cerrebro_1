@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"000 - 🧭 VISIÓN - OBJETIVOS\"",
+      "color": {
+        "a": 1,
+        "rgb": 15262246
+      }
+    },
+    {
+      "query": "path:\"100 - ✅ PROYECTOS\"",
+      "color": {
+        "a": 1,
+        "rgb": 1485871
+      }
+    },
+    {
+      "query": "path:\"150 - 🏆 ACTIVOS\"",
+      "color": {
+        "a": 1,
+        "rgb": 13870375
+      }
+    },
+    {
+      "query": "path:\"200 - 🌍 MEMORIA DIGITAL\"",
+      "color": {
+        "a": 1,
+        "rgb": 3703781
+      }
+    },
+    {
+      "query": "path:\"300 - 🧠 MODELOS MENTALES\"",
+      "color": {
+        "a": 1,
+        "rgb": 14268054
+      }
+    },
+    {
+      "query": "path:\"900 - 📆 DIARIO\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"001 - 📥 CAPTURA\"",
+      "color": {
+        "a": 1,
+        "rgb": 15208721
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.6,
+  "nodeSizeMultiplier": 1.23811446629213,
+  "lineSizeMultiplier": 0.664325842696629,
+  "collapse-forces": false,
+  "centerStrength": 0.356741573033708,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.30795708910907266,
+  "close": true
+}
