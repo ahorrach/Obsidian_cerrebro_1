@@ -21,14 +21,14 @@
             "id": "3b82bda2e6d5aa55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Detalle SystemD (el nuevo sistema).md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Detalle SystemD (el nuevo sistema)"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           },
           {
@@ -234,15 +234,15 @@
   },
   "active": "3b82bda2e6d5aa55",
   "lastOpenFiles": [
+    "Sin título.canvas",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Detalle SystemD (el nuevo sistema).md",
     "Sin título.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Atajos BASH FLASHCARD.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/CHULETA DE ATAJOS DE BASH.md",
-    "Sin título.canvas",
     "Sin título 1.canvas",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/MBR vs GPT.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Instalación.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/0 Linux basico.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Detalle SystemD (el nuevo sistema).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Detalle de SysVinit (deprecado).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos de inicio.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistemas de Gestión (Init).md",
@@ -273,7 +273,6 @@
     "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ANKI PLUGIN/Mazo Capitales América usando modo Neurocache.md",
     "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ANKI PLUGIN/ANEXOS/mapa-de-asia.jpg",
     "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ANKI PLUGIN/ANEXOS/bandera chile.png",
-    "CEREBRO DIGITAL BÁSICO 1/000 - 🧭 VISIÓN - OBJETIVOS/202502 RUEDA VIDA.md",
     "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ZETTELKASTEN ATRIBUTOS/BIBLIOGRAFÍA/ANEXOS/Pasted image 20211022195846.png",
     "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ZETTELKASTEN ATRIBUTOS/BIBLIOGRAFÍA/ANEXOS/Pasted image 20211022185436.png",
     "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ZETTELKASTEN ATRIBUTOS/BIBLIOGRAFÍA/ANEXOS/Pasted image 20211022185054.png",
