@@ -1,10 +1,14 @@
-### Hardware y dispositivos
-- IRQ, DMA
-- udev
-- sysfs
+[[Hardware y dispositivos]]
+	-[[Información del Hardware en Linux (IRQ,DMA,HOTPUG)]]
+	-[[Linux – sysfs, D-Bus y udev]]
+	- [[Linux – lspci y lsusb]]
+
+[[Kernel (Comandos de Gestión de Módulos)]]
+- Módulos del kernel
+- Opciones del kernel
 ### Sistema y Particiones
-- [[Instalación]]
-- [[SWAP]]
+- [[00003 Instalación]]
+- [[00002 SWAP]]
 - [[FHS -> Filesystem Hierarchy Standard]]
 - [[LVM -> Logical Volume Manager]]
 ### [[02 Arranque]]
@@ -16,9 +20,7 @@
 - Jorunalctl y Systemctl
 - Mensajes inicio con dmesg
 - Initramfs
-### Kernel
-- Módulos del kernel
-- Opciones del kernel
+
 
 ### Comandos clave
 - Apagar/Reiniciar

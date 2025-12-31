@@ -21,14 +21,14 @@
             "id": "3b82bda2e6d5aa55",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Instalación.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Instalación"
             }
           },
           {
@@ -37,16 +37,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos de inicio.md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware y dispositivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Procesos de inicio"
+              "title": "Hardware y dispositivos"
+            }
+          },
+          {
+            "id": "57d25e878d508aff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00000 Linux basico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00000 Linux basico"
+            }
+          },
+          {
+            "id": "af327a46e20133d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Kernel (Comandos de Gestión de Módulos).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kernel (Comandos de Gestión de Módulos)"
+            }
+          },
+          {
+            "id": "855f97ceaa1e4fb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware y dispositivos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hardware y dispositivos"
+            }
+          },
+          {
+            "id": "78f2e8008212a87f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Linux – sysfs, D-Bus y udev.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux – sysfs, D-Bus y udev"
+            }
+          },
+          {
+            "id": "39553a3150e37a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Información del Hardware en Linux (IRQ,DMA,HOTPUG).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Información del Hardware en Linux (IRQ,DMA,HOTPUG)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -69,7 +139,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -196,8 +266,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -219,33 +289,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b82bda2e6d5aa55",
+  "active": "af327a46e20133d2",
   "lastOpenFiles": [
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-101_1[05]+-+modulos.pdf",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Información del Hardware en Linux (IRQ,DMA,HOTPUG).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Kernel (Comandos de Gestión de Módulos).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00000 Linux basico.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware y dispositivos.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Linux – lspci y lsusb.md",
+    "ANEXOS/C04-101_1[04]+-+lspci+y+lsusb.pdf",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00003 Instalación.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Linux – sysfs, D-Bus y udev.md",
+    "ANEXOS/C04-101_1[01]+-+intro (1).pdf",
+    "ANEXOS/C04-101_1[02]+-+sysfs,dbus+y+udev.pdf",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00002 SWAP.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Detalle de SysVinit (deprecado).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistemas de Gestión (Init).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos de inicio.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-102_1[01]+-+Particiones,+instalacion.pdf",
     "Sin título.canvas",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Detalle SystemD (el nuevo sistema).md",
     "Sin título.md",
+    "Sin título 1.canvas",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Detalle SystemD (el nuevo sistema).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Atajos BASH FLASHCARD.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/CHULETA DE ATAJOS DE BASH.md",
-    "Sin título 1.canvas",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/MBR vs GPT.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Instalación.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/0 Linux basico.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Detalle de SysVinit (deprecado).md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos de inicio.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistemas de Gestión (Init).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistemas de Gestión (Init) (SYSTEMD Y SYSTEMVINIT).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Comandos y Herramientas de Gestión y MENSAJERIA.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Componentes criticos arranque (Initramfs).md",
@@ -253,7 +334,6 @@
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/02 Arranque.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/FHS -> Filesystem Hierarchy Standard.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/03 BIOS vs UEFI.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/SWAP.md",
     "ANEXOS/C04-102_2[02]+-+Gestores+de+arranque+-+GRUB2.pdf",
     "ANEXOS/C04-102_2[01]+-+Gestores+de+Arranque+y+GRUB.pdf",
     "ANEXOS/C04-101_2[04]+-+MBR+y+GPT.pdf",
@@ -261,16 +341,7 @@
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-101_2[01]+-+BIOS.pdf",
     "Instalación.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/LVM -> Logical Volume Manager.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-102_1[01]+-+Particiones,+instalacion.pdf",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-102_1[02]+-+Particines,+swap.pdf",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/LVM.pdf",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/LVM 1.pdf",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-102_1[04]+-+LVM.pdf",
-    "CEREBRO DIGITAL BÁSICO/000 - 🧭 VISIÓN - OBJETIVOS/yyyy Balance año.md",
-    "CEREBRO DIGITAL BÁSICO/000 - 🧭 VISIÓN - OBJETIVOS/202502 RUEDA VIDA.md",
-    "CEREBRO DIGITAL BÁSICO/901 - 🧱 PLANTILLAS/plantilla PROYECTO.md",
-    "CEREBRO DIGITAL BÁSICO/EMPIEZA AQUÍ.md",
-    "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ANKI PLUGIN/Mazo Capitales América usando modo Neurocache.md",
     "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ANKI PLUGIN/ANEXOS/mapa-de-asia.jpg",
     "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ANKI PLUGIN/ANEXOS/bandera chile.png",
     "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ZETTELKASTEN ATRIBUTOS/BIBLIOGRAFÍA/ANEXOS/Pasted image 20211022195846.png",
