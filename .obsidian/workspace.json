@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos de inicio.md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos Inicio/Procesos de inicio.md",
                 "mode": "source",
                 "source": false
               },
@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Librerías Compartidas en Linux.md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Librerias Compartidas Linux/Librerías Compartidas en Linux.md",
                 "mode": "source",
                 "source": false
               },
@@ -483,10 +483,28 @@
             "id": "fd5930e926d29476",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos Inicio/Detalle de SysVinit (deprecado).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Detalle de SysVinit (deprecado)"
+            }
+          },
+          {
+            "id": "21f8b7fa74eeb2e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/CHULETA DE ATAJOS DE BASH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CHULETA DE ATAJOS DE BASH"
             }
           },
           {
@@ -532,7 +550,7 @@
             }
           }
         ],
-        "currentTab": 34
+        "currentTab": 35
       }
     ],
     "direction": "vertical"
@@ -564,7 +582,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -585,8 +603,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -719,10 +736,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd5930e926d29476",
+  "active": "176c979d415a355f",
   "lastOpenFiles": [
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/CHULETA DE ATAJOS DE BASH.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Atajos BASH FLASHCARD.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00 Conceptos Basicos linux.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Librerias Compartidas Linux",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos Inicio/Detalle de SysVinit (deprecado).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos Inicio/Detalle SystemD (el nuevo sistema).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos Inicio/Procesos de inicio.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos Inicio/Sistemas de Gestión (Init).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos Inicio/Componentes criticos arranque (Initramfs).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos Inicio",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/CHULETA DE ATAJOS DE BASH.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Proceso Arranque/MBR (ante UEFI) vs GPT (desde uefi).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Proceso Arranque/Funcionamiento del arranque.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Proceso Arranque/BIOS vs UEFI.md",
@@ -730,33 +755,24 @@
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Proceso Arranque",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones/Sistema y paticiones.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones/Proceso Instalación.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Comandos del Sistema Apagado, Reinicio y Mensajes.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Atajos BASH FLASHCARD.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos Inicio/Comandos del Sistema Apagado, Reinicio y Mensajes.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones/SWAP.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL/Linux – lspci y lsusb.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL/Hardware y dispositivos.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones/LVM -> Logical Volume Manager.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Librerías Compartidas en Linux.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Librerias Compartidas Linux/Librerías Compartidas en Linux.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL/Información del Hardware en Linux (IRQ,DMA,HOTPUG).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Mantenimiento y Optimización con apt.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Mantenimiento y Optimización con apt.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Gestion de paquetes Debian (deb,Dpkg, apt).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Gestión mediante Repositorios (apt-get) (no recomendado).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Gestión Local con dpkg.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Gestion de paquetes RPM/Gestión de Paquetes .RPM en Linux.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/ANEXOS/C04-102_4[04]+-+repositorios.pdf",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/ANEXOS/C04-102_4[01]+-+dpkg.pdf",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/ANEXOS",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/01 Gestion de paquetes.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Gestion de paquetes RPM",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes",
-    "3. Mantenimiento y Optimización con `apt`.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/El Comando apt (evolucion apt-get y recomendado).md",
-    "El Comando apt (evolucion apt-get y recomendado).md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones/FHS -> Filesystem Hierarchy Standard.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-102_3[01]+-+Librerias+compartidas,+teoria.pdf",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ANKI PLUGIN/ANEXOS/mapa-de-asia.jpg",
