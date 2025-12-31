@@ -20,14 +20,9 @@
 - Jorunalctl y Systemctl
 - Mensajes inicio con dmesg
 - Initramfs
+-  Apagar/Reiniciar
 
-
-### Comandos clave
-- Apagar/Reiniciar
-- Systemctl
-- journalctl, dmesg
-
-### Librerías compartidas
+[[Librerías Compartidas en Linux]]
 - Ubicación
 - ldconfig
 - ldd
