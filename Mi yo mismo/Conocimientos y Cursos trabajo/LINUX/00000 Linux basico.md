@@ -26,3 +26,7 @@
 - Ubicación
 - ldconfig
 - ldd
+
+[[Gestion de paquetes]]
+	- Gestion de paquetes Debian
+	- Gestions de paquetes RPM
