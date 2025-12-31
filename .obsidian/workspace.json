@@ -569,12 +569,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/ls (List).md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/Bash y comandos del sistema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ls (List)"
+              "title": "Bash y comandos del sistema"
             }
           },
           {
@@ -808,10 +808,11 @@
   },
   "active": "c514df72c69564fb",
   "lastOpenFiles": [
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/Bash y comandos del sistema.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00 Conceptos Basicos linux.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/mv (Move).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/ls (List).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/Bash y comandos del sistema.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/rm (remove).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/mv (Move).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/Identificación y Localización (type , which , $PATH ).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/cp (Copy).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/mkdir (Make Directory).md",
@@ -839,7 +840,6 @@
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones/Sistema y paticiones.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones/Proceso Instalación.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos Inicio/Comandos del Sistema Apagado, Reinicio y Mensajes.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones/SWAP.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/ANEXOS/C04-102_4[04]+-+repositorios.pdf",
