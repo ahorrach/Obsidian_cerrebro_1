@@ -42,3 +42,4 @@ Este archivo gestiona los directorios de librerías de forma modular:
 
 - El comando `ldd` se utiliza para mostrar qué librerías específicas necesita un programa determinado del sistema para funcionar.
 
+![[C04-102_3[01]+-+Librerias+compartidas,+teoria.pdf]]
