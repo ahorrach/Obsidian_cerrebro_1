@@ -31,8 +31,9 @@
 	- Gestion de paquetes Debian
 	- Gestions de paquetes RPM
 
-Chuletas UTILES
+[[Virtualización y Contenedores en Linux]]
 
-[[Atajos BASH FLASHCARD]]
 
-[[CHULETA DE ATAJOS DE BASH]]
+[[Bash y comandos del sistema]]:
+	-[[Atajos BASH FLASHCARD]]
+	-[[CHULETA DE ATAJOS DE BASH]]
