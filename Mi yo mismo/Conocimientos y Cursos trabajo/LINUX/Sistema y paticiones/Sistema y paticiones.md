@@ -1,0 +1,4 @@
+- [[Proceso Instalación]]
+- [[SWAP]]
+- [[FHS -> Filesystem Hierarchy Standard]]
+- [[LVM -> Logical Volume Manager]]

@@ -1,6 +1,3 @@
-
-## Funcionamiento del arranque
-
 El proceso de arranque es el conjunto de pasos que se ejecutan desde que se enciende el ordenador hasta que el sistema operativo comienza a funcionar.
 
 ### Pasos del arranque
@@ -12,3 +9,8 @@ El proceso de arranque es el conjunto de pasos que se ejecutan desde que se enci
   - En el MBR se encuentra el código necesario para localizar y ejecutar el gestor de arranque.
 - Si el sistema utiliza **UEFI**:
   - Se ejecuta directamente el gestor de arranque almacenado en una **partición especial llamada ESP (EFI System Partition)**.
+
+Detalle del proceso
+- [[BIOS vs UEFI]]
+- [[MBR (ante UEFI) vs GPT (desde uefi)]]
+- [[ Gestores de arranque (LILO, GRUB, GRUB2)]]

@@ -1,20 +1,20 @@
 [[Hardware y dispositivos]]
-	-[[Información del Hardware en Linux (IRQ,DMA,HOTPUG)]]
-	-[[Linux – sysfs, D-Bus y udev]]
-	- [[Linux – lspci y lsusb]]
+	-Información del Hardware en Linux (IRQ,DMA,HOTPUG)
+	-Linux – sysfs, D-Bus y udev
+	- Linux – lspci y lsusb
 
 [[Kernel (Comandos de Gestión de Módulos)]]
 - Módulos del kernel
 - Opciones del kernel
-### Sistema y Particiones
-- [[00003 Instalación]]
-- [[00002 SWAP]]
-- [[FHS -> Filesystem Hierarchy Standard]]
-- [[LVM -> Logical Volume Manager]]
-### [[02 Arranque]]
-- [[03 BIOS vs UEFI]]
-- [[MBR vs GPT]]
--[[ Gestores de arranque (LILO, GRUB, GRUB2)]]
+### [[Sistema y paticiones]]
+- Instalación
+- SWAP
+- FHS -> Filesystem Hierarchy Standard
+- LVM -> Logical Volume Manager
+### [[Funcionamiento del arranque]]
+- BIOS vs UEFI
+- MBR (ante UEFI) vs GPT (desde uefi)
+-  Gestores de arranque (LILO, GRUB, GRUB2)
 ### [[Procesos de inicio]]
 - SysVinit (runlevels)(obsoleto) y   Systemd (targets)
 - Jorunalctl y Systemctl
@@ -27,6 +27,6 @@
 - ldconfig
 - ldd
 
-[[Gestion de paquetes]]
+[[01 Gestion de paquetes]]
 	- Gestion de paquetes Debian
 	- Gestions de paquetes RPM

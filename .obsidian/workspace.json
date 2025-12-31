@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware y dispositivos.md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL/Hardware y dispositivos.md",
                 "mode": "source",
                 "source": false
               },
@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00000 Linux basico.md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00 Conceptos Basicos linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00000 Linux basico"
+              "title": "00 Conceptos Basicos linux"
             }
           },
           {
@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00000 Linux basico.md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00 Conceptos Basicos linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00000 Linux basico"
+              "title": "00 Conceptos Basicos linux"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware y dispositivos.md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL/Hardware y dispositivos.md",
                 "mode": "source",
                 "source": false
               },
@@ -121,12 +121,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00000 Linux basico.md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00 Conceptos Basicos linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00000 Linux basico"
+              "title": "00 Conceptos Basicos linux"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00000 Linux basico.md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00 Conceptos Basicos linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00000 Linux basico"
+              "title": "00 Conceptos Basicos linux"
             }
           },
           {
@@ -149,12 +149,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00000 Linux basico.md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00 Conceptos Basicos linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00000 Linux basico"
+              "title": "00 Conceptos Basicos linux"
             }
           },
           {
@@ -163,12 +163,330 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion de paquetes.md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Gestion de paquetes Debian (deb,Dpkg, apt).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gestion de paquetes"
+              "title": "Gestion de paquetes Debian (deb,Dpkg, apt)"
+            }
+          },
+          {
+            "id": "1092d2528284f8d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Gestion de paquetes Debian (deb,Dpkg, apt).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gestion de paquetes Debian (deb,Dpkg, apt)"
+            }
+          },
+          {
+            "id": "effe5bc2fafe0262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/01 Gestion de paquetes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Gestion de paquetes"
+            }
+          },
+          {
+            "id": "0e8c6b1863feb7c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Gestion de paquetes Debian (deb,Dpkg, apt).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gestion de paquetes Debian (deb,Dpkg, apt)"
+            }
+          },
+          {
+            "id": "bbd80ca35fb2cb81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/01 Gestion de paquetes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Gestion de paquetes"
+            }
+          },
+          {
+            "id": "e30195c3f026b9d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Gestion de paquetes Debian (deb,Dpkg, apt).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gestion de paquetes Debian (deb,Dpkg, apt)"
+            }
+          },
+          {
+            "id": "7322b1d33ee6e5c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/01 Gestion de paquetes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Gestion de paquetes"
+            }
+          },
+          {
+            "id": "7293215263e000e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Gestion de paquetes Debian (deb,Dpkg, apt).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gestion de paquetes Debian (deb,Dpkg, apt)"
+            }
+          },
+          {
+            "id": "2e78d640b5a0a3ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/01 Gestion de paquetes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Gestion de paquetes"
+            }
+          },
+          {
+            "id": "35e443d008366b63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/01 Gestion de paquetes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Gestion de paquetes"
+            }
+          },
+          {
+            "id": "a00f64324a637159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/01 Gestion de paquetes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Gestion de paquetes"
+            }
+          },
+          {
+            "id": "9e55921b2f711564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Gestion de paquetes Debian (deb,Dpkg, apt).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gestion de paquetes Debian (deb,Dpkg, apt)"
+            }
+          },
+          {
+            "id": "e36b10d22df16528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/01 Gestion de paquetes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Gestion de paquetes"
+            }
+          },
+          {
+            "id": "c748cba6dc807f30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/01 Gestion de paquetes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Gestion de paquetes"
+            }
+          },
+          {
+            "id": "d279eaa05878f0e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Gestion de paquetes Debian (deb,Dpkg, apt).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gestion de paquetes Debian (deb,Dpkg, apt)"
+            }
+          },
+          {
+            "id": "bb5ef5837b832fbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Gestion de paquetes Debian (deb,Dpkg, apt).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gestion de paquetes Debian (deb,Dpkg, apt)"
+            }
+          },
+          {
+            "id": "c4ed9af473f8525f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Gestión mediante Repositorios (apt-get) (no recomendado).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gestión mediante Repositorios (apt-get) (no recomendado)"
+            }
+          },
+          {
+            "id": "3a521e47320b6658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Gestion de paquetes Debian (deb,Dpkg, apt).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gestion de paquetes Debian (deb,Dpkg, apt)"
+            }
+          },
+          {
+            "id": "bf762795eb76933c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00 Conceptos Basicos linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Conceptos Basicos linux"
+            }
+          },
+          {
+            "id": "e864c43ebb9a6765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL/Hardware y dispositivos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hardware y dispositivos"
+            }
+          },
+          {
+            "id": "7d494dcba97c99c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL/Hardware y dispositivos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hardware y dispositivos"
+            }
+          },
+          {
+            "id": "e3cb22a337f8d0fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones/SWAP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SWAP"
+            }
+          },
+          {
+            "id": "fc937843808f8259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00 Conceptos Basicos linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Conceptos Basicos linux"
+            }
+          },
+          {
+            "id": "fd5930e926d29476",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -177,7 +495,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware y dispositivos.md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL/Hardware y dispositivos.md",
                 "mode": "source",
                 "source": false
               },
@@ -191,7 +509,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Linux – sysfs, D-Bus y udev.md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL/Linux – sysfs, D-Bus y udev.md",
                 "mode": "source",
                 "source": false
               },
@@ -205,7 +523,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Información del Hardware en Linux (IRQ,DMA,HOTPUG).md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL/Información del Hardware en Linux (IRQ,DMA,HOTPUG).md",
                 "mode": "source",
                 "source": false
               },
@@ -214,7 +532,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 34
       }
     ],
     "direction": "vertical"
@@ -254,7 +572,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -267,11 +585,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 390.5
   },
   "right": {
     "id": "8ca7e4f0c48452a2",
@@ -400,46 +719,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc6f86f017004ae9",
+  "active": "fd5930e926d29476",
   "lastOpenFiles": [
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00000 Linux basico.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestions de paquetes RPM.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion de paquetes.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion de paquetes Debian (deb,Dpkg, apt).md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Linux – lspci y lsusb.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Información del Hardware en Linux (IRQ,DMA,HOTPUG).md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware y dispositivos.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Librerías Compartidas en Linux.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-102_3[01]+-+Librerias+compartidas,+teoria.pdf",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-101_1[01]+-+intro (1).pdf",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Diagnóstico con ldd.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos de inicio.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Comandos del Sistema Apagado, Reinicio y Mensajes.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-101_3[01]+-+apagar,+reiniciar+y+mensajes.pdf",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Comandos y Herramientas de Gestión y MENSAJERIA.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestores de arranque (LILO, GRUB, GRUB2).md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Kernel (Comandos de Gestión de Módulos).md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-101_1[05]+-+modulos.pdf",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-101_1[04]+-+lspci+y+lsusb.pdf",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00003 Instalación.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Linux – sysfs, D-Bus y udev.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-101_1[02]+-+sysfs,dbus+y+udev.pdf",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00002 SWAP.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Detalle de SysVinit (deprecado).md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistemas de Gestión (Init).md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-102_1[01]+-+Particiones,+instalacion.pdf",
-    "Sin título.canvas",
-    "Sin título.md",
-    "Sin título 1.canvas",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Detalle SystemD (el nuevo sistema).md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Atajos BASH FLASHCARD.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/CHULETA DE ATAJOS DE BASH.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/MBR vs GPT.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistemas de Gestión (Init) (SYSTEMD Y SYSTEMVINIT).md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Componentes criticos arranque (Initramfs).md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-102_2[02]+-+Gestores+de+arranque+-+GRUB2.pdf",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-102_2[01]+-+Gestores+de+Arranque+y+GRUB.pdf",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-101_2[04]+-+MBR+y+GPT.pdf",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00 Conceptos Basicos linux.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Proceso Arranque/MBR (ante UEFI) vs GPT (desde uefi).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Proceso Arranque/Funcionamiento del arranque.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Proceso Arranque/BIOS vs UEFI.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Proceso Arranque/Gestores de arranque (LILO, GRUB, GRUB2).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Proceso Arranque",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones/Sistema y paticiones.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones/Proceso Instalación.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Comandos del Sistema Apagado, Reinicio y Mensajes.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Atajos BASH FLASHCARD.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones/SWAP.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL/Linux – lspci y lsusb.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL/Hardware y dispositivos.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones/LVM -> Logical Volume Manager.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Librerías Compartidas en Linux.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL/Información del Hardware en Linux (IRQ,DMA,HOTPUG).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Mantenimiento y Optimización con apt.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Gestion de paquetes Debian (deb,Dpkg, apt).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Gestión mediante Repositorios (apt-get) (no recomendado).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Gestión Local con dpkg.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Gestion de paquetes RPM/Gestión de Paquetes .RPM en Linux.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/ANEXOS/C04-102_4[04]+-+repositorios.pdf",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/ANEXOS/C04-102_4[01]+-+dpkg.pdf",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/ANEXOS",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/01 Gestion de paquetes.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Gestion de paquetes RPM",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes",
+    "3. Mantenimiento y Optimización con `apt`.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/El Comando apt (evolucion apt-get y recomendado).md",
+    "El Comando apt (evolucion apt-get y recomendado).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones/FHS -> Filesystem Hierarchy Standard.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-102_3[01]+-+Librerias+compartidas,+teoria.pdf",
+    "Sin título.canvas",
+    "Sin título 1.canvas",
     "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ANKI PLUGIN/ANEXOS/mapa-de-asia.jpg",
     "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ANKI PLUGIN/ANEXOS/bandera chile.png",
     "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ZETTELKASTEN ATRIBUTOS/BIBLIOGRAFÍA/ANEXOS/Pasted image 20211022195846.png",

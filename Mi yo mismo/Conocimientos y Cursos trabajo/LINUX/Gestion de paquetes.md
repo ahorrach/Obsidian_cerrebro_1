@@ -1,2 +1,0 @@
-	-[[Gestion de paquetes Debian (deb,Dpkg, apt)]]
-	-[[Gestions de paquetes RPM]]
