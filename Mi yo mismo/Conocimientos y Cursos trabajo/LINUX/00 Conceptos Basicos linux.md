@@ -27,6 +27,12 @@
 - ldconfig
 - ldd
 
-[[01 Gestion de paquetes]]
+[[Gestion de paquetes]]
 	- Gestion de paquetes Debian
 	- Gestions de paquetes RPM
+
+Chuletas UTILES
+
+[[Atajos BASH FLASHCARD]]
+
+[[CHULETA DE ATAJOS DE BASH]]
