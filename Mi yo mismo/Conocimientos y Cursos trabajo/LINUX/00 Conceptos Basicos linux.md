@@ -35,5 +35,11 @@
 
 
 [[Bash y comandos del sistema]]:
-	-[[Atajos BASH FLASHCARD]]
-	-[[CHULETA DE ATAJOS DE BASH]]
+- Identificación y Localización (type , which , $PATH ) 
+- Configuración del Entorno (set, export, unset, env,export,unset,env,history)
+- Visualización con comando "echo"
+- Ayuda e Información del Sistema (man y uname)
+- Comando Sudo y su
+- Resumen de Comandos de Archivos y Texto
+- Atajos BASH FLASHCARD
+- CHULETA DE ATAJOS DE BASH

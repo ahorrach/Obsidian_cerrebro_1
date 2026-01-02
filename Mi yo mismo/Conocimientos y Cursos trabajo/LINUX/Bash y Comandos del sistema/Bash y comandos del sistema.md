@@ -1,4 +1,5 @@
-
+[[Atajos BASH FLASHCARD]]
+[[CHULETA DE ATAJOS DE BASH]]
 
 Comandos del sistema:
 # Comandos de BASH y Entorno
@@ -10,34 +11,13 @@ El intérprete **BASH** utiliza tanto comandos internos como ejecutables externo
 
 ## 2. [[Configuración del Entorno (set, export, unset, env,export,unset,env,history)]]
 
-## 3. Visualización con `echo`
-
-El comando **`echo`** muestra el texto que recibe en la salida estándar.
-
-- **`-e`**: Habilita la interpretación de caracteres especiales escapados con contrabarra (`\`), como `\n` para saltos de línea.
-    
-- **Comillas**:
-    
-    - **Simples (`'`)**: Tratan todo como texto literal (ej. `'$RANDOM'` no se procesa).
-        
-    - **Dobles (`"`)**: Permiten la interpretación de variables especiales (ej. `"$RANDOM"` muestra un número).
+[[3. Visualización con comando "echo"]]
         
 
-## 4. Ayuda e Información del Sistema
-
-- **`man`**: Accede a los manuales de ayuda de comandos y ficheros de configuración.
-    
-- **`uname`**: Muestra información del sistema operativo.
-    
-    - **`-a`**: Muestra toda la información disponible (kernel, arquitectura, etc.).
+## 4. [[Ayuda e Información del Sistema (man y uname)]]
         
-
-
-[[Atajos BASH FLASHCARD]]
-[[CHULETA DE ATAJOS DE BASH]]
-
-
-# 📋 Resumen de Comandos de Archivos y Texto
+## 5. [[Comando Sudo y su]]
+## 6. Resumen de Comandos de Archivos y Texto
 
 | Comando                                 | Opciones Clave               | Propósito                                                              |
 | --------------------------------------- | ---------------------------- | ---------------------------------------------------------------------- |
@@ -52,37 +32,4 @@ El comando **`echo`** muestra el texto que recibe en la salida estándar.
 | **`sort`**                              | `-n`, `-h`, `-r`             | Ordenar líneas numéricamente, por tamaño humano o inversamente.        |
 | **`rev`**                               |                              | Invertir el orden de los caracteres de cada línea.                     |
 
-
-## 5. Gestión de Privilegios: `sudo` y `su`
-
-Para realizar tareas administrativas (instalar paquetes, tocar archivos de `/etc`), necesitas privilegios de **root** (superusuario).
-
-### 1. `su` (Substitute User)
-
-Te permite convertirte en otro usuario (por defecto, el superusuario `root`).
-
-- **`su -`**: Cambia a root cargando también su entorno de variables (como su propio `$PATH`). Pide la contraseña del usuario **root**.
-    
-- **`su [usuario]`**: Te cambia a la sesión de otro usuario específico.
-    
-
-### 2. `sudo` (SuperUser Do)
-
-Permite a un usuario normal ejecutar un comando con privilegios de root.
-
-- **Funcionamiento**: A diferencia de `su`, pide **tu propia contraseña**, no la de root.
-    
-- **`sudo -i`**: Te da una shell persistente como root (similar a `su -` pero con tu clave).
-    
-- **`sudo !!`**: Ejecuta el comando anterior pero con sudo (muy útil cuando olvidas ponerlo).
-    
-
----
-
-### Tabla de Seguridad: ¿Cuál usar?
-
-|**Comando**|**Contraseña requerida**|**Uso recomendado**|
-|---|---|---|
-|**`sudo`**|La tuya (del usuario actual)|**Óptimo**: Ejecutar una sola tarea y volver a ser usuario normal.|
-|**`su -`**|La de **root**|Solo si necesitas hacer muchas tareas de administración seguidas.|
 
