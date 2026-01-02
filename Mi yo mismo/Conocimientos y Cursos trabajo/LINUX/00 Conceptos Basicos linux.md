@@ -43,3 +43,6 @@
 - Resumen de Comandos de Archivos y Texto
 - Atajos BASH FLASHCARD
 - CHULETA DE ATAJOS DE BASH
+
+[[Gestion Particiones Linux]]
+[[Verificacion sistema archivos]]

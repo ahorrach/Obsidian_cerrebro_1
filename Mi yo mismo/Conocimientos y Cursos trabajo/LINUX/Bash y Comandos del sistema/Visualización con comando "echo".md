@@ -1,8 +1,6 @@
-## 3. Visualización con comando "echo"
-
 El comando **`echo`** muestra el texto que recibe en la salida estándar.
 
-- **`-e`**: Habilita la interpretación de caracteres especiales escapados con contrabarra (`\`), como `\n` para saltos de línea.
+- **`-e`**: Habilita la interpretación de caracteres especiales escapados con contra barra (`\`), como `\n` para saltos de línea.
     
 - **Comillas**:
     
