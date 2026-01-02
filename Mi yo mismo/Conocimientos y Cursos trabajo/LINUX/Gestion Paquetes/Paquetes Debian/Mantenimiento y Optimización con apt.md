@@ -41,5 +41,7 @@ sudo apt autoremove            # Quita dependencias sobrantes
 sudo apt purge                 # (Opcional) Borra configuraciones
 sudo apt clean                 # Borra instaladores descargados 
 
+se pueden ejecutar todos juntos con este comando:
 
+sudo apt autoremove && sudo apt purge && sudo apt clean
 ```
