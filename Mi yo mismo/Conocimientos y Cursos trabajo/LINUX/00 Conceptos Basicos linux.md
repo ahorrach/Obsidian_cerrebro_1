@@ -44,5 +44,7 @@
 - Atajos BASH FLASHCARD
 - CHULETA DE ATAJOS DE BASH
 
-[[Gestion Particiones Linux]]
+[[Editores de texto en consola vi emacs nano]]
+
+[[Gestión de particiones en Linux desde línea de comandos]]
 [[Verificacion sistema archivos]]
