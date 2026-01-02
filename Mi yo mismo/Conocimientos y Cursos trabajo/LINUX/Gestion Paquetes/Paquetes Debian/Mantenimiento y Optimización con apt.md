@@ -40,4 +40,6 @@ sudo apt remove [paquete]      # Quita el programa [cite: 97]
 sudo apt autoremove            # Quita dependencias sobrantes
 sudo apt purge                 # (Opcional) Borra configuraciones
 sudo apt clean                 # Borra instaladores descargados 
+
+
 ```
