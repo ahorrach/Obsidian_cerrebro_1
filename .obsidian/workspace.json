@@ -177,12 +177,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Editores linea comandos/Chuleta rápida de Nano.md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/Exprexiones Regulares/Expresiones Regulares (Regex).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chuleta rápida de Nano"
+              "title": "Expresiones Regulares (Regex)"
+            }
+          },
+          {
+            "id": "ea5240c60cda7047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/Exprexiones Regulares/Expresiones Regulares (Regex).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expresiones Regulares (Regex)"
+            }
+          },
+          {
+            "id": "8ca016923e40bc89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/Exprexiones Regulares/Expresiones Regulares (Regex).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expresiones Regulares (Regex)"
+            }
+          },
+          {
+            "id": "c3071bbb9aad3479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/Exprexiones Regulares/Expresiones Regulares (Regex).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expresiones Regulares (Regex)"
             }
           },
           {
@@ -732,7 +774,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -946,10 +988,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "176c979d415a355f",
+  "active": "c3071bbb9aad3479",
   "lastOpenFiles": [
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Editores linea comandos/Editores de texto en consola vi emacs nano.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/Exprexiones Regulares/Explicacion  Expresiones Regulares (Regex).md",
+    "Chuleta Corta Expresiones Regulares.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/Exprexiones Regulares/Expresiones Regulares (Regex).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Editores linea comandos/Chuleta rápida de Nano.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/Exprexiones Regulares",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Editores linea comandos/Editores de texto en consola vi emacs nano.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Editores linea comandos/NANO — Explicación ampliada.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Editores linea comandos/Chuleta rápida de Emacs.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Editores linea comandos/EMACS — Explicación ampliada.md",
@@ -973,9 +1019,6 @@
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/ls (List).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/rm (remove).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/mv (Move).md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/cp (Copy).md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/mkdir (Make Directory).md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/Atajos BASH FLASHCARD.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-102_6[02]+-+Contenedores.pdf",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-102_6[01]+-++Virtualizacion.pdf",
@@ -983,7 +1026,6 @@
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Procesos Inicio",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Proceso Arranque",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Sistema y paticiones",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "CEREBRO DIGITAL BÁSICO 1/1000 -  EJEMPLOS YOUTUBE OBSIDIAN/ANKI PLUGIN/ANEXOS/mapa-de-asia.jpg",
