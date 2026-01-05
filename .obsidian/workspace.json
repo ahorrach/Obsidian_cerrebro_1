@@ -233,12 +233,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/Uso de disco (comando df) y tamaño de ficheros y directorios \"du\".md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/Uso de disco (df) y tamaño ficheros y directorios (du).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uso de disco (comando df) y tamaño de ficheros y directorios \"du\""
+              "title": "Uso de disco (df) y tamaño ficheros y directorios (du)"
             }
           },
           {
@@ -1002,7 +1002,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a8b5f8e7caec817",
+  "active": "d4b9c4cd78ff79d4",
   "lastOpenFiles": [
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/Configuración del Entorno (set, export, unset, env,export,unset,env,history).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/Identificación y Localización (type , which , $PATH ).md",
@@ -1031,7 +1031,7 @@
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestión de particiones en Linux desde línea de comandos.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Verificacion sistema archivos.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/Bash y comandos del sistema.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/Uso de disco (comando df) y tamaño de ficheros y directorios \"du\".md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/Uso de disco (df) y tamaño ficheros y directorios (du).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/Visualización con comando \"echo\".md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/Ayuda e Información del Sistema (man y uname).md",
     "Informacion sistema (man y uname).md",
