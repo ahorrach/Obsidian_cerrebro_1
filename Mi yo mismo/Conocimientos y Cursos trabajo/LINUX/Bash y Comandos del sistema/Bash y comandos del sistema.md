@@ -25,8 +25,8 @@ El intérprete **BASH** utiliza tanto comandos internos como ejecutables externo
 | [[rm (remove) \| rm]]                                                      | `-r`, `-f`                   | Borrar archivos o directorios de forma recursiva y forzada.            |
 | [[cp (Copy) \| cp]]                                                        | `-r`, `-p`                   | Copiar archivos/directorios preservando atributos.                     |
 | [[mv (Move) \| mv]]                                                        |                              | Mover o renombrar archivos.                                            |
-| [[Uso de disco (comando df) y tamaño de ficheros y directorios "du"\| du]] |                              | Analisis de uso de disco (disck usage)                                 |
-| [[Uso de disco (comando df) y tamaño de ficheros y directorios "du"\| df]] |                              | Analisis de  espacio libre en disco (disck free)                       |
+| [[Uso de disco (df) y tamaño ficheros y directorios (du)\| du]] |                              | Analisis de uso de disco (disck usage)                                 |
+| [[Uso de disco (df) y tamaño ficheros y directorios (du)\| df]] |                              | Analisis de  espacio libre en disco (disck free)                       |
 | **`wc`**                                                                   | `-l`, `-w`, `-c`             | Contar líneas, palabras o bytes/caracteres.                            |
 | uniq                                                                       | `-c`, `-d`                   | Contar ocurrencias o mostrar solo líneas duplicadas.                   |
 | **`sort`**                                                                 | `-n`, `-h`, `-r`             | Ordenar líneas numéricamente, por tamaño humano o inversamente.        |
