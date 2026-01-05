@@ -10,7 +10,7 @@ El intérprete **BASH** utiliza tanto comandos internos como ejecutables externo
     
 ## 2. [[Configuración del Entorno (set, export, unset, env,export,unset,env,history)]]
 
-[[Visualización con comando "echo"]]
+[[Visualización con comando (echo)]]
         
 
 ## 4. [[Ayuda e Información del Sistema (man y uname)]]
