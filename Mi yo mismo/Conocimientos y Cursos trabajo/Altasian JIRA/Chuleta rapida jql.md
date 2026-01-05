@@ -12,6 +12,9 @@ Permite:
 
 ---
 
+
+
+
 ## 🧱 Estructura básica de JQL
 
 ```
