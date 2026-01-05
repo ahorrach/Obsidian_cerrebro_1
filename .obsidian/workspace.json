@@ -219,12 +219,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/Untitled/Untitled.md",
+                "file": "Mi yo mismo/Conocimientos y Cursos trabajo/Altasian JIRA/Altasian JIRA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Altasian JIRA"
+            }
+          },
+          {
+            "id": "1a8b5f8e7caec817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chuleta rapida jql.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chuleta rapida jql"
             }
           },
           {
@@ -774,7 +788,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -952,8 +966,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -988,11 +1002,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3071bbb9aad3479",
+  "active": "1a8b5f8e7caec817",
   "lastOpenFiles": [
+    "Chuleta rapida jql.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/Altasian JIRA/Altasian JIRA.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Hardware , Dispositivos y KERNEL/Kernel (Comandos de Gestión de Módulos).md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00 Conceptos Basicos linux.md",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Editores linea comandos/Chuleta rápida de Emacs.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/Exprexiones Regulares/Expresiones Regulares (Regex).md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/Untitled/Untitled.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/Untitled",
+    "Mi yo mismo/Conocimientos y Cursos trabajo/Altasian JIRA",
     "Mi yo mismo/Conocimientos y Cursos trabajo/Untitled 1",
     "Mi yo mismo/Conocimientos y Cursos trabajo/Exprexiones Regulares/Explicacion  Expresiones Regulares (Regex).md",
     "Chuleta Corta Expresiones Regulares.md",
@@ -1000,12 +1018,10 @@
     "Mi yo mismo/Conocimientos y Cursos trabajo/Exprexiones Regulares",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Editores linea comandos/Editores de texto en consola vi emacs nano.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Editores linea comandos/NANO — Explicación ampliada.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Editores linea comandos/Chuleta rápida de Emacs.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Editores linea comandos/EMACS — Explicación ampliada.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Editores linea comandos/Chuleta rápida de VI.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Editores linea comandos/VI (VIM) — Explicación ampliada.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Editores linea comandos",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/00 Conceptos Basicos linux.md",
     "Vi/VI (VIM) — Explicación ampliada.md",
     "Vi",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestión de particiones en Linux desde línea de comandos.md",
@@ -1019,8 +1035,6 @@
     "Informacion sistema (man y uname).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/Comando Sudo y su.md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Gestion Paquetes/Paquetes Debian/Mantenimiento y Optimización con apt.md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/ls (List).md",
-    "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema/rm (remove).md",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/Bash y Comandos del sistema",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-102_6[02]+-+Contenedores.pdf",
     "Mi yo mismo/Conocimientos y Cursos trabajo/LINUX/ANEXOS/C04-102_6[01]+-++Virtualizacion.pdf",
