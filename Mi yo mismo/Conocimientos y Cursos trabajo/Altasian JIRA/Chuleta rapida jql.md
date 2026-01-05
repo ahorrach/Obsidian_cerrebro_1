@@ -11,10 +11,6 @@ Permite:
 - Ordenar resultados
 
 ---
-
-
-
-
 ## 🧱 Estructura básica de JQL
 
 ```
