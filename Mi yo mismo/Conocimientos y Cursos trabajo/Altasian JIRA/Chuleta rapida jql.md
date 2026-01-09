@@ -9,8 +9,6 @@ Permite:
 - Usar lógica booleana
 - Guardar filtros reutilizables
 - Ordenar resultados
-
-
 ---
 ## 🧱 Estructura básica de JQL
 
