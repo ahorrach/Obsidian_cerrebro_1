@@ -10,6 +10,7 @@ Permite:
 - Guardar filtros reutilizables
 - Ordenar resultados
 
+
 ---
 ## 🧱 Estructura básica de JQL
 
